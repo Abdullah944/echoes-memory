@@ -46,7 +46,7 @@ Assets/
 
 # PHASE 0 — Setup
 
-- [ ] Create project folders
+- [x] Create project folders
 - [ ] Setup Input System
 - [ ] Setup Cinemachine
 - [ ] Create scenes:
