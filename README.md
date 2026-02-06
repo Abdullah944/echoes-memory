@@ -40,6 +40,14 @@ Assets/
 
 ---
 
+## 📐 Best practices
+
+- **Always check current Unity docs and the web** for the latest, clean, readable ways to do things (UI, input, project structure, etc.).
+- Unity 6 recommends **uGUI** for runtime game UI; **UI Toolkit** is the alternative. For menus and HUD we use uGUI unless the team decides otherwise.
+- Keep the project tidy: use the folder structure above; in scenes, use empty GameObjects as “folders” to group related objects.
+
+---
+
 ## ✅ DEVELOPMENT TODO LIST
 
 ---
