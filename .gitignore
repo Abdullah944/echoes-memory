@@ -19,3 +19,10 @@ UserSettings/
 *.pidb
 *.booproj
 *.svd
+
+# macOS
+.DS_Store
+
+# Crashlytics
+[Cc]rashlytics/
+sysinfo.txt
